@@ -9,7 +9,7 @@ Sou estudante de Ciência da Computação, do 3º Termo, na Universidade de Mar�
 Aqui estão algumas das tecnologias que estou aprendendo e utilizando:
 
 ### Linguagens:
-![Python](hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
