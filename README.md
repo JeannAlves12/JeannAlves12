@@ -1,8 +1,6 @@
 # Jeann Garçoni Alves
 
-Sou estudante de Ciência da Computação, no 4º Termo, na Universidade de Marília! 🎓
-
-[![card](https://github-readme-stats.vercel.app/api?username=JeannAlves12&theme=tokyonight&show_icons=true)](https://github.com/JeannAlves12/github-readme-stats)
+Sou estudante de Ciência da Computação, no 5º Termo, na Universidade de Marília! 🎓
 
 ## 🚀 Minhas Skills
 
@@ -35,10 +33,3 @@ Aqui estão as tecnologias que venho explorando e aplicando em meus projetos:
 ### Futuros Estudos:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
-
-### 📊 Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeannAlves12&layout=compact&theme=tokyonight)](https://github.com/JeannAlves12/github-readme-stats)
-
-
