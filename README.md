@@ -1,6 +1,6 @@
 # Jeann Garçoni Alves
 
-Sou estudante de Ciência da Computação, no 5º Termo, na Universidade de Marília! 🎓
+Sou estudante de Ciência da Computação, no 6º Termo, na Universidade de Marília! 🎓
 
 ## 🚀 Minhas Skills
 
