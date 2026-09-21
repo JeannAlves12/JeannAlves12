@@ -5,8 +5,12 @@ Estudante de Ciência da Computação (6º termo) na Universidade de Marília. �
 Meu foco de estudos e interesse é **análise de dados** e **desenvolvimento back-end**. Hoje estudo e pratico principalmente Python e SQL, e estou construindo base na parte de dados e em boas práticas de back-end. Abaixo separei minha stack pelo nível real de prática que tenho com cada tecnologia.
  
 ---
- 
+
 ## 🧰 Stack
+
+---
+
+### ✅ Mais praticadas e utilizadas
 Tecnologias com as quais tenho mais prática e mais conforto em utilizar.
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
